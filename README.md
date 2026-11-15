@@ -13,7 +13,6 @@
 
 <br/><br/>
 
-<!-- CÁC ICON KỸ NĂNG CĂN GIỮA ĐỒNG BỘ -->
 ![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -31,15 +30,34 @@
 
 ---
 
+### 🐍 Hoạt Động Commit (Snake Game)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thanh-hub-company/Thanh-hub-company/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thanh-hub-company/Thanh-hub-company/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Thanh-hub-company/Thanh-hub-company/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br/>
+
+<!-- WIDGET PHÁT NHẠC LOFI SÓNG NHẢY CHILL -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Thanh-hub-company/Thanh-hub-company/main/lofi-player.svg" alt="Lofi Music Player" width="450"/>
+</div>
+
+---
+
 ### 📊 Tỷ Lệ Ngôn Ngữ (Languages Breakdown)
 
 | Ngôn ngữ | Tỷ lệ | Phân bổ trực quan |
 | :--- | :---: | :--- |
-| **Java**       | 62% | `██████████████████████████████                   ` |
-| **SQL**        | 14% | `███████                                           ` |
-| **YAML**       | 12% | `██████                                           ` |
-| **Dockerfile** | 7% | `███                                         ` |
-| **Shell**      | 5% | `██                                               ` |
+| **Java** | 62% | `██████████████████████████████░░░░░░░░░░░░░░░░░░░░` |
+| **SQL** | 14% | `███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **YAML** | 12% | `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Dockerfile** | 7% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Shell** | 5% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 
 ---
 
@@ -129,15 +147,6 @@ docker compose ps
 | `POST` | `/api/v1/products` | `product-service` | Admin |
 | `POST` | `/api/v1/orders` | `order-service` | User |
 | `GET` | `/api/v1/orders/{id}` | `order-service` | User |
-
-#### 5. Trạng thái GitHub Actions gần đây
-
-| Workflow Run | Trạng thái | Nhánh | Ghi chú |
-| :--- | :---: | :---: | :--- |
-| `CI/CD - Build & Push Images` | ✅ Success | `main` | Đã build và push image lên registry |
-| `Unit & Integration Test Suite` | ✅ Success | `main` | 42 tests passed, 0 failures |
-| `Nightly Vulnerability Scan` | ❌ Failed | `develop` | Lỗi timeout tải cơ sở dữ liệu CVE |
-| `Deploy Staging to VPS` | ✅ Success | `main` | Tự động triển khai hoàn tất |
 
 ---
 
