@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="100" viewBox="0 0 450 100" fill="none">
+  <style>
+    @keyframes soundwave {
+      0% { height: 6px; }
+      50% { height: 32px; }
+      100% { height: 6px; }
+    }
+    .bar {
+      width: 4px;
+      border-radius: 2px;
+      fill: #38BDF8;
+      transform-origin: bottom;
+    }
+    .b1 { animation: soundwave 1.2s ease-in-out infinite; }
+    .b2 { animation: soundwave 0.8s ease-in-out infinite 0.2s; }
+    .b3 { animation: soundwave 1.4s ease-in-out infinite 0.4s; }
+    .b4 { animation: soundwave 0.9s ease-in-out infinite 0.1s; }
+    .b5 { animation: soundwave 1.3s ease-in-out infinite 0.5s; }
+    .b6 { animation: soundwave 1.1s ease-in-out infinite 0.3s; }
+    .text-title { font-family: 'Segoe UI', -apple-system, sans-serif; font-weight: 600; font-size: 15px; fill: #F1F5F9; }
+    .text-sub { font-family: 'Segoe UI', -apple-system, sans-serif; font-size: 12px; fill: #94A3B8; }
+    .badge-live { font-family: 'Segoe UI', -apple-system, sans-serif; font-weight: 700; font-size: 10px; fill: #10B981; }
+  </style>
+
+  <!-- NỀN CARD BO GÓC DỊU MẮT -->
+  <rect width="450" height="100" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+
+  <!-- ICON ĐĨA NHẠC / ALBUM -->
+  <rect x="18" y="18" width="64" height="64" rx="10" fill="#1E293B"/>
+  <circle cx="50" cy="50" r="18" fill="#334155"/>
+  <circle cx="50" cy="50" r="6" fill="#38BDF8"/>
+
+  <!-- THÔNG TIN BÀI HÁT -->
+  <text x="96" y="34" class="badge-live">● NOW PLAYING</text>
+  <text x="96" y="55" class="text-title">Lofi Coding Beats • Deep Focus</text>
+  <text x="96" y="74" class="text-sub">Java Backend Session • Chillhop Vibes</text>
+
+  <!-- 6 THANH SÓNG NHẠC NHẢY (EQUALIZER BARS) -->
+  <g transform="translate(400, 64) rotate(180)">
+    <rect x="0" y="0" class="bar b1"/>
+    <rect x="7" y="0" class="bar b2"/>
+    <rect x="14" y="0" class="bar b3"/>
+    <rect x="21" y="0" class="bar b4"/>
+    <rect x="28" y="0" class="bar b5"/>
+    <rect x="35" y="0" class="bar b6"/>
+  </g>
+</svg>
