@@ -1,0 +1,19 @@
+name: Connect Four
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  connect-four:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: write
+    if: startsWith(github.event.issue.title, 'connect-four|')
+    steps:
+      - uses: actions/checkout@v4
+      - uses: timburgan/connect-four@master
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
