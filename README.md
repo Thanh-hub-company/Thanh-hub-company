@@ -54,6 +54,28 @@
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" width="100%">
 </div>
 
+---
+
+### 🎮 Thử Thách Trí Tuệ: Connect Four (Cờ 4 Nối Tiếp)
+
+> **Luật chơi:** Bấm vào chữ **[Thả]** ở các cột bên dưới để thả quân cờ đỏ 🔴 của bạn. Máy tính sẽ đánh quân cờ vàng 🟡 đáp trả. Ai nối đủ 4 viên thẳng hàng (ngang, dọc, chéo) trước là người chiến thắng!
+
+<!-- connect-four-start -->
+<!-- connect-four-header-start -->
+| Cột 1 | Cột 2 | Cột 3 | Cột 4 | Cột 5 | Cột 6 | Cột 7 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Thả](https://github.com/Thanh-hub-company/Thanh-hub-company/issues/new?title=connect-four%7Cdrop%7C1&body=Just+click+'Submit+new+issue'+to+drop+a+disc!) | [Thả](https://github.com/Thanh-hub-company/Thanh-hub-company/issues/new?title=connect-four%7Cdrop%7C2&body=Just+click+'Submit+new+issue'+to+drop+a+disc!) | [Thả](https://github.com/Thanh-hub-company/Thanh-hub-company/issues/new?title=connect-four%7Cdrop%7C3&body=Just+click+'Submit+new+issue'+to+drop+a+disc!) | [Thả](https://github.com/Thanh-hub-company/Thanh-hub-company/issues/new?title=connect-four%7Cdrop%7C4&body=Just+click+'Submit+new+issue'+to+drop+a+disc!) | [Thả](https://github.com/Thanh-hub-company/Thanh-hub-company/issues/new?title=connect-four%7Cdrop%7C5&body=Just+click+'Submit+new+issue'+to+drop+a+disc!) | [Thả](https://github.com/Thanh-hub-company/Thanh-hub-company/issues/new?title=connect-four%7Cdrop%7C6&body=Just+click+'Submit+new+issue'+to+drop+a+disc!) | [Thả](https://github.com/Thanh-hub-company/Thanh-hub-company/issues/new?title=connect-four%7Cdrop%7C7&body=Just+click+'Submit+new+issue'+to+drop+a+disc!) |
+<!-- connect-four-header-end -->
+<!-- connect-four-board-start -->
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+<!-- connect-four-board-end -->
+<!-- connect-four-end -->
+
 
 ### 📊 Tỷ Lệ Ngôn Ngữ (Languages Breakdown)
 
