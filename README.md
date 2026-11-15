@@ -47,9 +47,9 @@
       </td>
       <td valign="middle">
         <p><b>⭐ Cấp độ (Level):</b> <code>Lv. 16</code> &nbsp;•&nbsp; <b>Hệ:</b> <code>Điện / Java Ecosystem ⚡</code></p>
-        <p><b>❤️ Sức khỏe (HP):</b> <code>[████████████████████] 100%</code> (Đang tràn đầy năng lượng ⚡)</p>
-        <p><b>🍎 Đã ăn hôm nay:</b> <code>[████████████████░░░░] 85%</code> (Vừa nhai xong commit Java ngon lành!)</p>
-        <p><b>🔋 Pin năng lượng:</b> <code>[⚡⚡⚡⚡⚡⚡⚡⚡⚡░] 90%</code> <i>(Sẵn sàng thức đêm cùng Thành fix bug)</i></p>
+        <p><b>❤️ Sức khỏe (HP):</b>  <code>[████████████████████] 100%</code> (Đang tràn đầy năng lượng ⚡)</p>
+        <p><b>🍎 Đã ăn hôm nay:</b>  <code>[████████████████    ] 85%</code> (Vừa nhai xong commit Java ngon lành!)</p>
+        <p><b>🔋 Pin năng lượng:</b> <code>[⚡⚡⚡⚡⚡⚡⚡⚡⚡ ] 90%</code> <i>(Sẵn sàng thức đêm cùng Thành fix bug)</i></p>
         <p><b>🐾 Tuyệt chiêu siêu đẳng:</b></p>
         <ul>
           <li>⚡ <b>100,000 Volt Spring Boot:</b> Phóng điện giật tan biến mọi lỗi Bug</li>
