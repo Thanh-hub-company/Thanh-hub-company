@@ -30,7 +30,6 @@
 
 ---
 
----
 
 ### ⚡ Bé Thú Cưng Cày Code: Pikachu (Git-Pet Tamagotchi)
 
