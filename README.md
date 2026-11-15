@@ -1,34 +1,20 @@
-<div align="center">
-  <!-- BANNER TÊN CỠ LỚN - SANG TRỌNG & NỔI BẬT (TONE SLATE DỊU MẮT) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&text=L%C3%8A%20TU%E1%BA%A5N%20TH%C3%80NH&fontSize=52&fontColor=ffffff&height=150&section=header&subtext=JAVA%20BACKEND%20DEVELOPER%20%E2%80%A2%20MICROSERVICES%20%E2%80%A2%20DEVOPS&subfontSize=16&subfontColor=94a3b8" width="100%" alt="Lê Tuấn Thành Header" />
-  <br/>
-  <h3>👋 Xin chào, mình là Lê Tuấn Thành</h3>
-  <p>
-    <b>Học Java Backend | Spring Boot | PostgreSQL | Microservices | DevOps</b>
-  </p>
-  <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    &nbsp;
-    <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-64748B?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    &nbsp;
-    <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-</div>
+# 👨‍💻 LÊ TUẤN THÀNH
+> **Java Backend Developer**  
+> Học Java Backend | Spring Boot | PostgreSQL | Microservices | DevOps
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-64748B?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 ---
 ### ✦ Kỹ Năng & Chủ Đề (Skills & Topics)
-```
-#java #spring-boot #postgresql #jdbc #microservices #docker #kubernetes #ci-cd #rest-api #devops
-```
-<p>
-  <img src="https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=FCC624" />
-</p>
+`#java` `#spring-boot` `#postgresql` `#jdbc` `#microservices` `#docker` `#kubernetes` `#ci-cd` `#rest-api` `#devops`
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=FCC624)
 ---
 ### ✦ Tỷ Lệ Ngôn Ngữ (Languages Breakdown)
 ```text
@@ -48,50 +34,20 @@ Shell         5%  ██░░░░░░░░░░░░░░░░░░�
 ```
 ---
 ### ✦ Danh Sách Repositories (Pinned Repositories)
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📦 <a href="#-dự-án-tiêu-biểu-microservices-ecommerce">microservices-ecommerce</a></h4>
-      <p>Hệ thống bán hàng gồm user-service, order-service, product-service, api-gateway và Eureka.</p>
-      <p><sub>🟡 <b>Java</b> &nbsp;•&nbsp; 🟣 <b>YAML</b></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/YOUR_USERNAME/spring-boot-rest-api">spring-boot-rest-api</a></h4>
-      <p>REST API quản lý sản phẩm, tích hợp JPA, Bean Validation và tài liệu Swagger UI.</p>
-      <p><sub>🟡 <b>Java</b></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/YOUR_USERNAME/jdbc-postgres-playground">jdbc-postgres-playground</a></h4>
-      <p>Thực hành CRUD thuần qua JDBC, tối ưu connection pool với HikariCP.</p>
-      <p><sub>🟡 <b>Java</b> &nbsp;•&nbsp; 🔵 <b>SQL</b></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/YOUR_USERNAME/devops-ci-cd-pipeline">devops-ci-cd-pipeline</a></h4>
-      <p>GitHub Actions tự động kiểm thử, build image Docker và deploy lên VPS.</p>
-      <p><sub>🟣 <b>YAML</b> &nbsp;•&nbsp; 🐳 <b>Dockerfile</b> &nbsp;•&nbsp; 🐚 <b>Shell</b></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/YOUR_USERNAME/k8s-microservices-deploy">k8s-microservices-deploy</a></h4>
-      <p>Kubernetes manifests, triển khai Ingress Controller và đóng gói Helm chart.</p>
-      <p><sub>🟣 <b>YAML</b></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/YOUR_USERNAME/postgres-sql-practice">postgres-sql-practice</a></h4>
-      <p>Bài tập thực hành: Query nâng cao, đánh Index, Transaction và EXPLAIN ANALYZE.</p>
-      <p><sub>🔵 <b>SQL</b></sub></p>
-    </td>
-  </tr>
-</table>
+| Repository | Mô tả tóm tắt | Ngôn ngữ / Công nghệ |
+| :--- | :--- | :--- |
+| 📦 [**microservices-ecommerce**](#-dự-án-tiêu-biểu-microservices-ecommerce) | Hệ thống bán hàng gồm user, order, product, gateway, eureka | `Java` `YAML` |
+| 📦 [**spring-boot-rest-api**](https://github.com/YOUR_USERNAME) | REST API quản lý sản phẩm, JPA, Validation, Swagger | `Java` |
+| 📦 [**jdbc-postgres-playground**](https://github.com/YOUR_USERNAME) | CRUD thuần JDBC, quản lý connection pool HikariCP | `Java` `SQL` |
+| 📦 [**devops-ci-cd-pipeline**](https://github.com/YOUR_USERNAME) | GitHub Actions tự động build, test và deploy lên VPS | `YAML` `Dockerfile` `Shell` |
+| 📦 [**k8s-microservices-deploy**](https://github.com/YOUR_USERNAME) | Kubernetes manifests, Ingress Controller và Helm chart | `YAML` |
+| 📦 [**postgres-sql-practice**](https://github.com/YOUR_USERNAME) | Bài tập query, đánh index, transaction, EXPLAIN ANALYZE | `SQL` |
 ---
 ### 🌟 Dự Án Tiêu Biểu: `microservices-ecommerce`
-[![Build](https://img.shields.io/badge/Build-Passing-2ea44f?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Tests](https://img.shields.io/badge/Tests-Passing-2ea44f?style=flat-square)](https://github.com/YOUR_USERNAME)
-[![Docker](https://img.shields.io/badge/Docker%20Push-Passing-2ea44f?style=flat-square&logo=docker&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Release](https://img.shields.io/badge/Release-v1.1.0-blue?style=flat-square)](https://github.com/YOUR_USERNAME)
+![Build](https://img.shields.io/badge/Build-Passing-2ea44f?style=flat-square)
+![Tests](https://img.shields.io/badge/Tests-Passing-2ea44f?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker_Push-Passing-2ea44f?style=flat-square)
+![Release](https://img.shields.io/badge/Release-v1.1.0-blue?style=flat-square)
 #### 1. Cấu trúc thư mục (File Tree)
 ```text
 microservices-ecommerce/
@@ -105,7 +61,7 @@ microservices-ecommerce/
 └── README.md
 ```
 #### 2. Sơ đồ kiến trúc (Architecture)
-```
+```text
                        [ Client Request ]
                                │
                                ▼
@@ -141,7 +97,7 @@ docker compose up -d --build
 docker compose ps
 ```
 #### 5. Code mẫu & Cấu hình
-##### Cấu hình Gateway (`api-gateway/src/main/resources/application.yml`)
+**Cấu hình Gateway (`api-gateway/src/main/resources/application.yml`):**
 ```yaml
 server:
   port: 8080
@@ -160,7 +116,7 @@ spring:
           predicates:
             - Path=/api/v1/orders/**
 ```
-##### Nghiệp vụ đặt hàng (`order-service/.../OrderService.java`)
+**Nghiệp vụ đặt hàng (`order-service/.../OrderService.java`):**
 ```java
 @Service
 @RequiredArgsConstructor
@@ -207,6 +163,4 @@ public class OrderService {
 - 📦 **Pushed 3 commits** to `order-service`: `feat: add order status workflow`
 - ⭐ **Starred** `spring-projects/spring-boot`
 ---
-<p align="center">
-  <sub>© 2026 Lê Tuấn Thành • Xây dựng hệ thống ổn định và tối ưu hiệu năng</sub>
-</p>
+*© 2026 Lê Tuấn Thành • Xây dựng hệ thống ổn định và tối ưu hiệu năng*
