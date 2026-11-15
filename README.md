@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 LÊ TUẤN THÀNH
+# 👨‍💻 LÊ TUẤN THÀNH                                                                                               
 
 **Java Backend Developer**  
 *Học Java Backend | Spring Boot | PostgreSQL | Microservices | DevOps*
@@ -25,6 +25,43 @@
 <br/>
 
 `#java` `#spring-boot` `#postgresql` `#jdbc` `#microservices` `#docker` `#kubernetes` `#ci-cd` `#rest-api` `#devops`
+
+</div>
+
+---
+
+---
+
+### ⚡ Bé Thú Cưng Cày Code: Pikachu (Git-Pet Tamagotchi)
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="220">
+        <!-- ẢNH ĐỘNG PIKACHU PIXEL-ART VẨY ĐUÔI CỰC CUTE -->
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" alt="Pikachu Cute" width="90"/>
+        <br/><br/>
+        <b>⚡ Pikachu (Pika Cày Code)</b>
+        <br/>
+        <sub><i>"Pika-pika! Đợi Thành nạp commit để phóng điện 100,000 Volts!"</i></sub>
+      </td>
+      <td valign="middle">
+        <p><b>⭐ Cấp độ (Level):</b> <code>Lv. 16</code> &nbsp;•&nbsp; <b>Hệ:</b> <code>Điện / Java Ecosystem ⚡</code></p>
+        <p><b>❤️ Sức khỏe (HP):</b> <code>[████████████████████] 100%</code> (Đang tràn đầy năng lượng ⚡)</p>
+        <p><b>🍎 Đã ăn hôm nay:</b> <code>[████████████████░░░░] 85%</code> (Vừa nhai xong commit Java ngon lành!)</p>
+        <p><b>🔋 Pin năng lượng:</b> <code>[⚡⚡⚡⚡⚡⚡⚡⚡⚡░] 90%</code> <i>(Sẵn sàng thức đêm cùng Thành fix bug)</i></p>
+        <p><b>🐾 Tuyệt chiêu siêu đẳng:</b></p>
+        <ul>
+          <li>⚡ <b>100,000 Volt Spring Boot:</b> Phóng điện giật tan biến mọi lỗi Bug</li>
+          <li>🐾 <b>Tốc độ ánh sáng PostgreSQL:</b> Tối ưu hóa Index chạy nhanh như chớp</li>
+          <li>🛡️ <b>Đuôi Sắt Docker:</b> Đóng gói Container an toàn bất khả xâm phạm</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+  <sub>💛 <i>Tiến hóa thành <b>Raichu</b> khi Thành làm chủ hoàn toàn Microservices & DevOps! Đừng để Pikachu đói nhé!</i></sub>
 
 </div>
 
